@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayush-5634
 - 👀 I’m interested in  artifical intelligence like computer vision , machine learning , neural networks, deep learning and so on .
-- 🌱 I’m currently learning student
+- 🌱 I’m currently student who learn technology like web development and of course artifical intelligence and much more and python is my favourite programming language followed by javascript and c/c++
 
 
 
